@@ -10,6 +10,7 @@ function RouterApp() {
         <Header />
         <Routes>
           <Route exact path="/" element={<Home />} />
+          <Route exact path="https://steve57000.github.io/Grand-Frais/" element={<Home />} />
           <Route path="/home" element={<Home />} />
         </Routes>
         <Footer />
