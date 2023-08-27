@@ -33,6 +33,7 @@ export default function Card({ title, cover, code, familly }) {
       <figcaption>
           {getKg}
           {getKgSansSachet}
+          {getCoupe}
           {getPiece}
           {getFilet}
           {getColis}
