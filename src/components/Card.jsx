@@ -27,7 +27,9 @@ export default function Card({ title, cover, code, familly }) {
   return (
     <figure className="card">
       <h2>{title}</h2>
-      <img src={cover} alt="" width="200px" height="200px"/>
+      <div className="ContainerImg">
+          <img src={cover} alt="" />
+      </div>
       <figcaption>
           {getKg}
           {getKgSansSachet}

@@ -1,3 +1,6 @@
+.Home {
+
+}
 .SectionCard {
   text-align: center;
 }
@@ -8,11 +11,33 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .card {
-  width: 25vw;
-  height: auto;
-  background-color: rgba(208, 0, 255, 0.53);
   border-radius: 25px;
+  width: 100vw;
+  max-width: 320px;
+  height: auto;
+  background-color: aqua;
+  padding: 0 2%;
+  overflow: hidden;
+  box-shadow: 0 0 13px 4px #0404043b
+}
+
+.ContainerImg {
+  display: flex;
+  border-radius: 25px;
+  overflow: hidden;
+  box-shadow: 0 0 13px 4px #04040475
+}
+.ContainerImg img {
+  width: 100%;
+  height: 100%;
+
+}
+.BackgroundImg{
+  width: calc(100px + 16.355vw);
+  height: calc(100px + 16.355vw);
+  background-size: cover;
 }
