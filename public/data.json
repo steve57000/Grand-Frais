@@ -3,10 +3,9 @@
     "id" : "c001",
     "name" : "Aloe vera",
     "famille" : 17,
-    "code" :
-      {
-        "kg" : 78070
-      },
+    "code" : {
+      "kg" : 78070
+    },
     "pictures" : "https://i.ibb.co/q7WZwcy/aloeVera.jpg"
   },
   {
@@ -59,11 +58,10 @@
     "id" : "c007",
     "name" : "Banane plantain mûre",
     "famille" : 17,
-    "code" :
-      {
-        "kg" : 78130,
-        "carton" : 78136
-      },
+    "code" : {
+      "kg" : 78130,
+      "carton" : 78136
+    },
     "pictures" : "https://i.ibb.co/YRbQYhq/banane-Plantain-Mure.jpg"
   },
   {
@@ -401,7 +399,6 @@
     "code": {
       "kg" : 63600,
       "coupe" : 63602
-
     },
     "pictures": "https://i.ibb.co/1JDc3R6/melon-vert.jpg"
   },
@@ -411,7 +408,6 @@
     "famille": 17,
     "code": {
      "kg" : 54610
-
     },
     "pictures": "https://i.ibb.co/ggHtvRJ/myrtille.jpg"
   },
@@ -421,7 +417,6 @@
     "famille": 17,
     "code": {
      "barquette" : 66601
-
     },
     "pictures": "https://i.ibb.co/ncvz6Gv/nectarine-barquette.jpg"
   },
@@ -431,7 +426,6 @@
     "famille": 17,
     "code": {
      "kg" : 66220
-
     },
     "pictures": "https://i.ibb.co/K5KVKWf/nectarine-blanche.jpg"
   },
@@ -441,7 +435,6 @@
     "famille": 17,
     "code": {
      "kg" : 67600
-
     },
     "pictures": "https://i.ibb.co/g4QrXBy/nectarine-blanche-pl-te.jpg"
   },
@@ -526,17 +519,233 @@
     },
     "pictures": "https://i.ibb.co/g6QgrNy/PAPAYE.jpg"
   },
-{
+  {
     "id": "c059",
-    "name": "",
+    "name": "Papaye fromose",
     "famille": 17,
     "code": {
-     "kg" : 78660
+      "kg" : 78670
     },
-    "pictures": ""
+    "pictures": "https://i.ibb.co/xgdkMdR/papaye-Formose.jpg"
+  },
+  {
+    "id": "c060",
+    "name": "Papaye verte",
+    "famille": 17,
+    "code": {
+      "kg" : 78680
+    },
+    "pictures": "https://i.ibb.co/tZkqyCM/papaye-verte.jpg"
+  },
+  {
+    "id": "c061",
+    "name": "Pasteque noire",
+    "famille": 17,
+    "code": {
+      "kg" : 65610,
+      "coupe" : 65612
+    },
+    "pictures": "https://i.ibb.co/YNbTYnq/past-que-noire.jpg"
+  },
+  {
+    "id": "c062",
+    "name": "Pasteque coco baby",
+    "famille": 17,
+    "code": {
+      "kg" : 65600,
+      "coupe" : 65602
+    },
+    "pictures": "https://i.ibb.co/LDwZ79M/past-que-coco-baby.jpg"
+  },
+  {
+    "id": "c063",
+    "name": "Pasteque zebree",
+    "famille": 17,
+    "code": {
+      "kg" : 65700,
+      "coupe" : 65702
+    },
+    "pictures": "https://i.ibb.co/6bRdj8Q/past-que-zebr-e.jpg"
+  },
+  {
+    "id": "c064",
+    "name": "Patate douce a chaire orange",
+    "famille": 17,
+    "code": {
+      "kg" : 78700
+    },
+    "pictures": "https://i.ibb.co/02kQ1Sc/patate-douces-chair-orange.png"
+  },
+  {
+    "id": "c065",
+    "name": "Peche barquette",
+    "famille": 17,
+    "code": {
+      "barquette" : 68501
+    },
+    "pictures": "https://i.ibb.co/wKm7hbc/p-che-barquette.jpg"
+  },
+  {
+    "id": "c066",
+    "name": "Peche blanche",
+    "famille": 17,
+    "code": {
+      "kg" : 66240
+    },
+    "pictures": "https://i.ibb.co/SJgz3gn/p-che-blanche.jpg"
+  },
+  {
+    "id": "c067",
+    "name": "Peche de vigne",
+    "famille": 17,
+    "code": {
+      "kg" : 70100
+    },
+    "pictures": "https://i.ibb.co/RjW5MrB/p-che-de-vigne.jpg"
+  },
+  {
+    "id": "c068",
+    "name": "Peche jaune",
+    "famille": 17,
+    "code": {
+      "kg" : 66230
+    },
+    "pictures": "https://i.ibb.co/jgjxsVw/p-che-jaune.jpg"
+  },
+  {
+    "id": "c069",
+    "name": "Physalis",
+    "famille": 17,
+    "code": {
+      "kg" : 78900
+    },
+    "pictures": "https://i.ibb.co/H71T7Wj/Physalis.jpg"
+  },
+  {
+    "id": "c070",
+    "name": "Piment antillais",
+    "famille": 17,
+    "code": {
+      "kg" : 78640
+    },
+    "pictures": "https://i.ibb.co/gPBWhqs/piment-antillais.jpg"
+  },
+  {
+    "id": "c069",
+    "name": "Physalis",
+    "famille": 17,
+    "code": {
+      "kg" : 78900
+    },
+    "pictures": "https://i.ibb.co/H71T7Wj/Physalis.jpg"
+  },
+  {
+    "id": "c070",
+    "name": "Piment antillais",
+    "famille": 17,
+    "code": {
+      "kg" : 78640
+    },
+    "pictures": "https://i.ibb.co/gPBWhqs/piment-antillais.jpg"
+  },
+  {
+    "id": "c071",
+    "name": "Piment oiseau",
+    "famille": 17,
+    "code": {
+      "kg" : 78650
+    },
+    "pictures": "https://i.ibb.co/brV7c6c/piment-oiseaux.jpg"
+  },
+  {
+    "id": "c072",
+    "name": "Pitaya rouge",
+    "famille": 17,
+    "code": {
+      "kg" : 78750
+    },
+    "pictures": "https://i.ibb.co/PG6m2wR/pitaya-rouge.jpg"
+  },
+  {
+    "id": "c073",
+    "name": "Pitaya jaune",
+    "famille": 17,
+    "code": {
+      "kg" : 78740
+    },
+    "pictures": "https://i.ibb.co/xSkpVHz/Pitaya-jaune.png"
+  },
+  {
+    "id": "c074",
+    "name": "Poire guyot",
+    "famille": 17,
+    "code": {
+      "kg" : 72010
+    },
+    "pictures": "https://i.ibb.co/h7fzW0H/poire-guyot.jpg"
+  },
+  {
+    "id": "c075",
+    "name": "Poire qtee",
+    "famille": 17,
+    "code": {
+      "kg" : 71400
+    },
+    "pictures": "https://i.ibb.co/k6KD90L/poire-qtee.jpg"
+  },
+  {
+    "id": "c076",
+    "name": "Pomelos rose",
+    "famille": 17,
+    "code": {
+      "kg" : 73130
+    },
+    "pictures": "https://i.ibb.co/syhZb9H/pomelos-rose.jpg"
+  },
+  {
+    "id": "c077",
+    "name": "Pomelos rouge",
+    "famille": 17,
+    "code": {
+      "kg" : 73230
+    },
+    "pictures": "https://i.ibb.co/x14pyXw/pomelos-rouge.jpg"
+  },
+  {
+    "id": "c078",
+    "name": "Ananas extra sweet avion",
+    "famille": 17,
+    "code": {
+      "kg" : 51440
+    },
+    "pictures": "https://i.ibb.co/cx0RhVy/ananas-extra-sweet-avion.jpg"
+  },
+  {
+    "id": "c079",
+    "name": "Ananas pain de sucre",
+    "famille": 17,
+    "code": {
+      "kg" : 51350
+    },
+    "pictures": "https://i.ibb.co/MSkNNFt/ANANAS-PAIN-DE-SUCRE.jpg"
+  },
+  {
+    "id": "c080",
+    "name": "Avocat tropical",
+    "famille": 17,
+    "code": {
+      "kg" : 78070
+    },
+    "pictures": "https://i.ibb.co/RNPSxgY/avocat-tropical.jpg"
+  },
+  {
+    "id": "c081",
+    "name": "Banane 5 doigts",
+    "famille": 17,
+    "code": {
+      "piece" : 53301
+    },
+    "pictures": "https://i.ibb.co/5rsq0QW/banane-5-doigts.jpg"
   }
-
-
-
 
 ]
