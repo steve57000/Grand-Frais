@@ -169,30 +169,30 @@
   },
   {
     "id": "c019",
-    "name": "Fraise belge (barquette 500gr)",
+    "name": "Figue de barbarie",
+    "famille": 17,
+    "code": {
+      "kg" : 61000
+    },
+    "pictures": "https://i.ibb.co/RBXqq9G/figue-de-barbarie.jpg"
+  },
+  {
+    "id": "c020",
+    "name": "",
     "famille": 17,
     "code": {
       "piece" : 56971
     },
-    "pictures": "fraiseBelgeBarquette"
-  },
-  {
-    "id": "c020",
-    "name": "Framboise (barquette)",
-    "famille": 17,
-    "code": {
-      "piece" : 54251
-    },
-    "pictures": "https://i.ibb.co/cbc19Vk/framboise.jpg"
+    "pictures": ""
   },
   {
     "id": "c021",
-    "name": "Framboise colis",
+    "name": "",
     "famille": 17,
     "code": {
-      "piece" : 54191
+      "piece" : 56971
     },
-    "pictures": "framboiseColis"
+    "pictures": ""
   },
   {
     "id": "c022",
@@ -254,8 +254,38 @@
     "name": "Jujube",
     "famille": 17,
     "code": {
-     "kg" : 78320
+      "kg" : 78320
     },
     "pictures": "https://i.ibb.co/cQHw7wb/Jujube-92314313-s2.jpg"
+  },
+  {
+    "id": "c029",
+    "name": "Kiwi gold",
+    "famille": 17,
+    "code": {
+     "piece" : 62111,
+     "lot" : 62119
+    },
+    "pictures": "https://i.ibb.co/DDjDKQy/kiwi-glod.jpg"
+  },
+  {
+    "id": "c030",
+    "name": "Kiwi gold",
+    "famille": 17,
+    "code": {
+     "piece" : 62111,
+     "lot" : 62119
+    },
+    "pictures": ""
+  },
+  {
+    "id": "c031",
+    "name": "Kiwi gold",
+    "famille": 17,
+    "code": {
+     "piece" : 62111,
+     "lot" : 62119
+    },
+    "pictures": ""
   }
 ]
