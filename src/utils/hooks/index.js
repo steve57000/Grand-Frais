@@ -1,4 +1,4 @@
-const urlDataAll =  "/data.json"
+const urlDataAll =  "./data.json"
 
 const getAll = async () => {
     let response

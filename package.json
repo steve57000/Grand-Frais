@@ -1,5 +1,5 @@
 {
-  "homepage": " https://steve57000.github.io/Grand-Frais/",
+  "homepage": " /home",
   "name": "grand-frais-react",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
     "react-router": "^6.15.0",
     "react-router-dom": "^6.15.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
