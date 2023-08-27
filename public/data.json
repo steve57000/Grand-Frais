@@ -32,7 +32,8 @@
     "name" : "Avocat hass",
     "famille" : 17,
     "code" : {
-      "piece": 50701
+      "piece": 50701,
+      "lot": 50709
     },
     "pictures" : "https://i.ibb.co/W3CgPrR/avocat-Hass.jpg"
   },
@@ -178,21 +179,21 @@
   },
   {
     "id": "c020",
-    "name": "",
+    "name": "Figue noire",
     "famille": 17,
     "code": {
-      "piece" : 56971
+      "kg" : 61230
     },
-    "pictures": ""
+    "pictures": "https://i.ibb.co/2PjtCvQ/figue-Noire.webp"
   },
   {
     "id": "c021",
-    "name": "",
+    "name": "Figue verte barquette",
     "famille": 17,
     "code": {
-      "piece" : 56971
+      "barquette" : 61031
     },
-    "pictures": ""
+    "pictures": "https://i.ibb.co/BCyr6SS/figues.jpg"
   },
   {
     "id": "c022",
@@ -202,7 +203,7 @@
       "filet" : 78271,
       "kg" : 77990
     },
-    "pictures": "https://i.ibb.co/C03Lshk/Fruit-Passion-Filet.webp"
+    "pictures": "https://i.ibb.co/B6Yfy6Y/fruit-de-la-Passion.jpg"
   },
   {
     "id": "c023",
@@ -233,12 +234,12 @@
   },
   {
     "id": "c026",
-    "name": "Groseille confiture",
+    "name": "Frecinette",
     "famille": 17,
     "code": {
-      "piece" : 54311
+      "barquette" : 78241
     },
-    "pictures": ""
+    "pictures": "https://i.ibb.co/TwhYR97/frecinette.jpg"
   },
   {
     "id": "c027",
@@ -270,22 +271,295 @@
   },
   {
     "id": "c030",
-    "name": "Kiwi gold",
+    "name": "Kumquat",
     "famille": 17,
     "code": {
-     "piece" : 62111,
-     "lot" : 62119
+     "kg" : 78510
     },
-    "pictures": ""
+    "pictures": "https://i.ibb.co/p1tmMX2/kumquat.jpg"
   },
   {
     "id": "c031",
-    "name": "Kiwi gold",
+    "name": "Lemon grass thai",
     "famille": 17,
     "code": {
-     "piece" : 62111,
-     "lot" : 62119
+     "kg" : 79050
+
+    },
+    "pictures": "https://i.ibb.co/5FFvQyM/lemongrass.jpg"
+  },
+  {
+    "id": "c032",
+    "name": "Liseron d'eau",
+    "famille": 17,
+    "code": {
+     "piece" : 79911
+
+    },
+    "pictures": "https://i.ibb.co/5YwmG4M/liseron-d-039-eau.png"
+  },
+  {
+    "id": "c033",
+    "name": "Mandarine orri",
+    "famille": 17,
+    "code": {
+     "kg" : 58400
+
+    },
+    "pictures": "https://i.ibb.co/rsKJVx3/mandarine-orri.jpg"
+  },
+  {
+    "id": "c034",
+    "name": "Mangoustan",
+    "famille": 17,
+    "code": {
+     "kg" : 78600
+
+    },
+    "pictures": "https://i.ibb.co/nwmYCNg/mangoustan.jpg"
+  },
+  {
+    "id": "c035",
+    "name": "Mangue sauvage pakistan",
+    "famille": 17,
+    "code": {
+     "kg" : 79230
+
+    },
+    "pictures": "https://i.ibb.co/F3W1XbW/Mangue-sauvage-pakistan.jpg"
+  },
+  {
+    "id": "c036",
+    "name": "Mangue selection",
+    "famille": 17,
+    "code": {
+     "kg" : 78580
+
+    },
+    "pictures": "https://i.ibb.co/61XSt0s/mangue-selection.jpg"
+  },
+  {
+    "id": "c037",
+    "name": "Mangue verte",
+    "famille": 17,
+    "code": {
+     "kg" : 78840
+
+    },
+    "pictures": "https://i.ibb.co/d5HZfdK/mangue-verte.jpg"
+  },
+  {
+    "id": "c039",
+    "name": "Maracuja",
+    "famille": 17,
+    "code": {
+     "kg" : 78620
+
+    },
+    "pictures": "https://i.ibb.co/rfX4qLH/Maracuja.jpg"
+  },
+  {
+    "id": "c040",
+    "name": "Maracuja rose",
+    "famille": 17,
+    "code": {
+     "kg" : 75930
+
+    },
+    "pictures": "https://i.ibb.co/6bTxVG3/Maracuja-Rose.jpg"
+  },
+  {
+    "id": "c041",
+    "name": "Melon charentais",
+    "famille": 17,
+    "code": {
+     "kg" : 63090
+
+    },
+    "pictures": "https://i.ibb.co/WWwYN1D/melon-charentais.jpg"
+  },
+ {
+    "id": "c042",
+    "name": "melon charentais mini",
+    "famille": 17,
+    "code": {
+     "colis" : 63111
+
+    },
+    "pictures": "https://i.ibb.co/y8d3QsB/force-sud-guy-dubon.jpg"
+  },
+  {
+    "id": "c043",
+    "name": "Melon gallia",
+    "famille": 17,
+    "code": {
+     "kg" : 63500
+
+    },
+    "pictures": "https://i.ibb.co/s6nGjzZ/melon-gallia.jpg"
+  },
+  {
+    "id": "c044",
+    "name": "Melon philibon",
+    "famille": 17,
+    "code": {
+     "kg" : 63040
+
+    },
+    "pictures": "https://i.ibb.co/GnwHjDM/melon-philibon.jpg"
+  },
+  {
+    "id": "c045",
+    "name": "Melon vert",
+    "famille": 17,
+    "code": {
+     "kg" : 63600
+
+    },
+    "pictures": "https://i.ibb.co/1JDc3R6/melon-vert.jpg"
+  },
+  {
+    "id": "c046",
+    "name": "Myrtille",
+    "famille": 17,
+    "code": {
+     "kg" : 54610
+
+    },
+    "pictures": "https://i.ibb.co/ggHtvRJ/myrtille.jpg"
+  },
+ {
+    "id": "c047",
+    "name": "Nectarine barquette",
+    "famille": 17,
+    "code": {
+     "barquette" : 66601
+
+    },
+    "pictures": "https://i.ibb.co/ncvz6Gv/nectarine-barquette.jpg"
+  },
+{
+    "id": "c048",
+    "name": "Nectarine blanche",
+    "famille": 17,
+    "code": {
+     "kg" : 66220
+
+    },
+    "pictures": "https://i.ibb.co/K5KVKWf/nectarine-blanche.jpg"
+  },
+  {
+    "id": "c049",
+    "name": "Nectarine blanche platte",
+    "famille": 17,
+    "code": {
+     "kg" : 67600
+
+    },
+    "pictures": "https://i.ibb.co/g4QrXBy/nectarine-blanche-pl-te.jpg"
+  },
+  {
+    "id": "c050",
+    "name": "Nectarine jaune",
+    "famille": 17,
+    "code": {
+     "kg" : 66210
+
+    },
+    "pictures": "https://i.ibb.co/b2GPgHT/nectarine-jaune.jpg"
+  },
+  {
+    "id": "c051",
+    "name": "Curcuma frais",
+    "famille": 17,
+    "code": {
+     "kg" : 79530
+
+    },
+    "pictures": "https://i.ibb.co/XpC5919/Curcuma-Frais.jpg"
+  },
+  {
+    "id": "c052",
+    "name": "Noisette fraiche",
+    "famille": 17,
+    "code": {
+     "kg" : 78010
+
+    },
+    "pictures": "https://i.ibb.co/yYDZP4b/NOISETTE-FRAICHE.jpg"
+  },
+  {
+    "id": "c053",
+    "name": "Noix de coco",
+    "famille": 17,
+    "code": {
+     "piece" : 78631
+
+    },
+    "pictures": "https://i.ibb.co/GTgdY0y/NOIX-DE-COCO.jpg"
+  },
+ {
+    "id": "c054",
+    "name": "Noix de coco fraiche",
+    "famille": 17,
+    "code": {
+     "piece" : 78831
+
+    },
+    "pictures": "https://i.ibb.co/fS5BGjB/Noix-de-Coco-fra-che.jpg"
+  },
+  {
+    "id": "c055",
+    "name": "Noix de cola",
+    "famille": 17,
+    "code": {
+     "kg" : 78850
+
+    },
+    "pictures": "https://i.ibb.co/tqvGRcd/noix-de-cola.jpg"
+  },
+  {
+    "id": "c056",
+    "name": "Orange a jus",
+    "famille": 17,
+    "code": {
+     "kg" : 64360
+
+    },
+    "pictures": "https://i.ibb.co/BZc6GXT/orange-a-jus.jpg"
+  },
+  {
+    "id": "c057",
+    "name": "Orange grosse dessert",
+    "famille": 17,
+    "code": {
+     "kg" : 64110
+
+    },
+    "pictures": "https://i.ibb.co/Hx25Q0q/orange-grosse-dessert.jpg"
+  },
+  {
+    "id": "c058",
+    "name": "Papaye",
+    "famille": 17,
+    "code": {
+     "kg" : 78660
+
+    },
+    "pictures": "https://i.ibb.co/g6QgrNy/PAPAYE.jpg"
+  },
+{
+    "id": "c059",
+    "name": "",
+    "famille": 17,
+    "code": {
+     "kg" : 78660
+
     },
     "pictures": ""
   }
+
+
+
+
 ]
