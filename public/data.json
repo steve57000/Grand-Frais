@@ -45,7 +45,6 @@
       "kg": 53000
     },
     "pictures" : "https://i.ibb.co/Pt33k3h/banane-Jaune.jpg"
-
   },
   {
     "id" : "c006",
@@ -81,7 +80,8 @@
     "name" : "Banane verte non mûre",
     "famille" : 17,
     "code" : {
-      "kg" : 53150
+      "kg" : 53150,
+      "carton" : 53156
     },
     "pictures" : "https://i.ibb.co/hDqSSRz/banane-Verte.webp"
   },
@@ -154,7 +154,7 @@
     "name": "Figue noire (barquette)",
     "famille": 17,
     "code": {
-      "piece" : 61221
+      "barquette" : 61221
     },
     "pictures": "https://i.ibb.co/S70WtCw/figue-Noire-Barquette.webp"
   },
@@ -163,8 +163,7 @@
     "name": "Figue verte",
     "famille": 17,
     "code": {
-      "kg" : 61100,
-      "barquette" : 61031
+      "kg" : 61100
     },
     "pictures": "https://i.ibb.co/R4mKQgR/figue-Verte.jpg"
   },
@@ -284,7 +283,6 @@
     "famille": 17,
     "code": {
      "kg" : 79050
-
     },
     "pictures": "https://i.ibb.co/5FFvQyM/lemongrass.jpg"
   },
@@ -294,7 +292,6 @@
     "famille": 17,
     "code": {
      "piece" : 79911
-
     },
     "pictures": "https://i.ibb.co/5YwmG4M/liseron-d-039-eau.png"
   },
@@ -304,7 +301,6 @@
     "famille": 17,
     "code": {
      "kg" : 58400
-
     },
     "pictures": "https://i.ibb.co/rsKJVx3/mandarine-orri.jpg"
   },
@@ -314,7 +310,6 @@
     "famille": 17,
     "code": {
      "kg" : 78600
-
     },
     "pictures": "https://i.ibb.co/nwmYCNg/mangoustan.jpg"
   },
@@ -324,7 +319,6 @@
     "famille": 17,
     "code": {
      "kg" : 79230
-
     },
     "pictures": "https://i.ibb.co/F3W1XbW/Mangue-sauvage-pakistan.jpg"
   },
@@ -334,7 +328,6 @@
     "famille": 17,
     "code": {
      "kg" : 78580
-
     },
     "pictures": "https://i.ibb.co/61XSt0s/mangue-selection.jpg"
   },
@@ -344,7 +337,6 @@
     "famille": 17,
     "code": {
      "kg" : 78840
-
     },
     "pictures": "https://i.ibb.co/d5HZfdK/mangue-verte.jpg"
   },
@@ -354,7 +346,6 @@
     "famille": 17,
     "code": {
      "kg" : 78620
-
     },
     "pictures": "https://i.ibb.co/rfX4qLH/Maracuja.jpg"
   },
@@ -364,7 +355,6 @@
     "famille": 17,
     "code": {
      "kg" : 75930
-
     },
     "pictures": "https://i.ibb.co/6bTxVG3/Maracuja-Rose.jpg"
   },
@@ -374,7 +364,6 @@
     "famille": 17,
     "code": {
      "kg" : 63090
-
     },
     "pictures": "https://i.ibb.co/WWwYN1D/melon-charentais.jpg"
   },
@@ -384,7 +373,6 @@
     "famille": 17,
     "code": {
      "colis" : 63111
-
     },
     "pictures": "https://i.ibb.co/y8d3QsB/force-sud-guy-dubon.jpg"
   },
@@ -394,7 +382,6 @@
     "famille": 17,
     "code": {
      "kg" : 63500
-
     },
     "pictures": "https://i.ibb.co/s6nGjzZ/melon-gallia.jpg"
   },
