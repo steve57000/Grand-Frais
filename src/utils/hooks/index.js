@@ -1,5 +1,5 @@
 
-const urlDataAll =  "/data.json"
+const urlDataAll =  "https://steve57000.github.io/Grand-Frais/data.json"
 
 const getAll = async () => {
     let response
