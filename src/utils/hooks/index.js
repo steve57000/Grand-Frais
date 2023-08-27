@@ -1,5 +1,5 @@
-
-const urlDataAll =  "https://steve57000.github.io/Grand-Frais/data.json"
+import { data } from '../../../public/data.json'
+const urlDataAll =  data
 
 const getAll = async () => {
     let response
