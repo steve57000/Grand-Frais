@@ -16,10 +16,11 @@ export default function Card({ title, cover, code, familly }) {
     const getKgSansSachet = sansSachet ? (<p>Code au kg (sans sachet): {sansSachet}</p>) : null
     const getPiece = code.piece ? (<p>Code à la pièce : {code.piece}</p>) : null
     const getFilet = code.filet ? (<p>Code filet : {code.filet}</p>) : null
-    const getColis = code.colis ? (<p>Code filet : {code.colis} </p>) : null
+    const getColis = code.colis ? (<p>Code colis : {code.colis} </p>) : null
     const getCarton = code.carton ? (<p>Code carton : {code.carton} </p>) : null
     const getBarquette = code.barquette ? (<p>Code barquette : {code.barquette}</p>) : null
     const getLot = code.lot ? (<p>Code lot : {code.lot}</p>) : null
+    const getCoupe = code.coupe ? (<p>Code à la coupe : {code.coupe}</p>) : null
 
 
   // comportements
@@ -33,6 +34,7 @@ export default function Card({ title, cover, code, familly }) {
       <figcaption>
           {getKg}
           {getKgSansSachet}
+          {getCoupe}
           {getPiece}
           {getFilet}
           {getColis}
