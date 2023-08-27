@@ -403,8 +403,7 @@
     "name": "Melon philibon",
     "famille": 17,
     "code": {
-     "kg" : 63040
-
+      "kg" : 63040
     },
     "pictures": "https://i.ibb.co/GnwHjDM/melon-philibon.jpg"
   },
@@ -413,7 +412,8 @@
     "name": "Melon vert",
     "famille": 17,
     "code": {
-     "kg" : 63600
+      "kg" : 63600,
+      "coupe" : 63602
 
     },
     "pictures": "https://i.ibb.co/1JDc3R6/melon-vert.jpg"
