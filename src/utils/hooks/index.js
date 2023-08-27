@@ -1,4 +1,4 @@
-import { data } from '../../data.json'
+import  data  from '../../data.json'
 const urlDataAll =  data
 
 const getAll = async () => {
