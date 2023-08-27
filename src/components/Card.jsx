@@ -5,6 +5,7 @@ import DefaultImg from '../assets/img/backgroundCover.svg';
 export default function Card({ title, cover, code, familly }) {
   // state
     let sansSachet
+  // comportements
     if(code.kg) {
         const numberSansSachet = JSON.stringify(code.kg)
         console.log(numberSansSachet)
@@ -22,9 +23,7 @@ export default function Card({ title, cover, code, familly }) {
     const getLot = code.lot ? (<p>Code lot : {code.lot}</p>) : null
     const getCoupe = code.coupe ? (<p>Code à la coupe : {code.coupe}</p>) : null
 
-
-  // comportements
-  // affichage (render)
+    // affichage (render)
   return (
     <figure className="card">
       <h2>{title}</h2>
