@@ -1,5 +1,4 @@
-import  data  from '../../data.json'
-const urlDataAll =  data
+const urlDataAll =  "/data.json"
 
 const getAll = async () => {
     let response
