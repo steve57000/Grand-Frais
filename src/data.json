@@ -1,0 +1,261 @@
+[
+  {
+    "id" : "c001",
+    "name" : "Aloe vera",
+    "famille" : 17,
+    "code" :
+      {
+        "kg" : 78070
+      },
+    "pictures" : "https://i.ibb.co/q7WZwcy/aloeVera.jpg"
+  },
+  {
+    "id" : "c002",
+    "name" : "Ananas extra sweet bateau",
+    "famille" : 17,
+    "code" : {
+      "kg" : 51450
+    },
+    "pictures" : "https://i.ibb.co/k61WQjB/ananas-Extra-Sweet-Bateau.jpg"
+  },
+  {
+    "id" : "c003",
+    "name" : "Ananas victoria",
+    "famille" : 17,
+    "code" : {
+     "kg" : 78030
+    },
+    "pictures" : "https://i.ibb.co/1XQv8zf/ananas-Victoria.jpg"
+  },
+  {
+    "id" : "c004",
+    "name" : "Avocat hass",
+    "famille" : 17,
+    "code" : {
+      "piece": 50701
+    },
+    "pictures" : "https://i.ibb.co/W3CgPrR/avocat-Hass.jpg"
+  },
+  {
+    "id" : "c005",
+    "name" : "Banane jaune",
+    "famille" : 17,
+    "code" : {
+      "kg": 53000
+    },
+    "pictures" : "https://i.ibb.co/Pt33k3h/banane-Jaune.jpg"
+
+  },
+  {
+    "id" : "c006",
+    "name" : "Banane des antilles",
+    "famille" : 17,
+    "code" : {
+      "kg" : 53030
+    },
+    "pictures" : "https://i.ibb.co/3CwhX6f/banane-Antillais.jpg"
+  },
+  {
+    "id" : "c007",
+    "name" : "Banane plantain mûre",
+    "famille" : 17,
+    "code" :
+      {
+        "kg" : 78130,
+        "carton" : 78136
+      },
+    "pictures" : "https://i.ibb.co/YRbQYhq/banane-Plantain-Mure.jpg"
+  },
+  {
+    "id" : "c008",
+    "name" : "Banane rose",
+    "famille" : 17,
+    "code" : {
+      "kg" : 78100
+    },
+    "pictures" : "https://i.ibb.co/4j1BsnH/banane-Rose.jpg"
+  },
+  {
+    "id" : "c009",
+    "name" : "Banane verte non mûre",
+    "famille" : 17,
+    "code" : {
+      "kg" : 53150
+    },
+    "pictures" : "https://i.ibb.co/hDqSSRz/banane-Verte.webp"
+  },
+  {
+    "id" : "c010",
+    "name" : "Carambole",
+    "famille" : 17,
+    "code" : {
+      "piece" : 77881
+    },
+    "pictures" : "https://i.ibb.co/NKhX8CZ/carambole.jpg"
+  },
+  {
+    "id" : "c011",
+    "name" : "Citron jaune",
+    "famille" : 17,
+    "code" : {
+      "kg": 57100,
+      "filet" : 57171
+    },
+    "pictures" : "https://i.ibb.co/9yHwjcF/citron-Jaune.jpg"
+  },
+  {
+    "id" : "c012",
+    "name" : "Citron vert",
+    "famille" : 17,
+    "code" : {
+      "filet": 77711
+    },
+    "pictures" : "https://i.ibb.co/mt6J7xJ/citron-Vert-Filet.jpg"
+  },
+  {
+    "id": "c013",
+    "name": "Conbavas",
+    "famille": 17,
+    "code": {
+      "kg" : 78190
+    },
+    "pictures": "https://i.ibb.co/9cQzBDn/combavas.jpg"
+  },
+  {
+    "id": "c014",
+    "name": "Couscous de manioc",
+    "famille": 17,
+    "code": {
+      "kg" : 79130
+    },
+    "pictures": "https://i.ibb.co/SXvQt1C/couscous-Manioc.webp"
+  },
+  {
+    "id": "c015",
+    "name": "Eddos",
+    "famille": 17,
+    "code": {
+      "kg" : 78200
+    },
+    "pictures": "https://i.ibb.co/J3r1h0y/eddos.jpg"
+  },
+  {
+    "id": "c016",
+    "name": "Feuille de banane",
+    "famille": 17,
+    "code": {
+      "piece" : 78231
+    },
+    "pictures": "https://i.ibb.co/pP4nzHJ/feuille-Banane.webp"
+  },
+  {
+    "id": "c017",
+    "name": "Figue noire (barquette)",
+    "famille": 17,
+    "code": {
+      "piece" : 61221
+    },
+    "pictures": "https://i.ibb.co/S70WtCw/figue-Noire-Barquette.webp"
+  },
+  {
+    "id": "c018",
+    "name": "Figue verte",
+    "famille": 17,
+    "code": {
+      "kg" : 61100,
+      "barquette" : 61031
+    },
+    "pictures": "https://i.ibb.co/R4mKQgR/figue-Verte.jpg"
+  },
+  {
+    "id": "c019",
+    "name": "Fraise belge (barquette 500gr)",
+    "famille": 17,
+    "code": {
+      "piece" : 56971
+    },
+    "pictures": "fraiseBelgeBarquette"
+  },
+  {
+    "id": "c020",
+    "name": "Framboise (barquette)",
+    "famille": 17,
+    "code": {
+      "piece" : 54251
+    },
+    "pictures": "https://i.ibb.co/cbc19Vk/framboise.jpg"
+  },
+  {
+    "id": "c021",
+    "name": "Framboise colis",
+    "famille": 17,
+    "code": {
+      "piece" : 54191
+    },
+    "pictures": "framboiseColis"
+  },
+  {
+    "id": "c022",
+    "name": "Fruit de la passion",
+    "famille": 17,
+    "code": {
+      "filet" : 78271,
+      "kg" : 77990
+    },
+    "pictures": "https://i.ibb.co/C03Lshk/Fruit-Passion-Filet.webp"
+  },
+  {
+    "id": "c023",
+    "name": "Galanga",
+    "famille": 17,
+    "code": {
+      "kg" : 79370
+    },
+    "pictures": "https://i.ibb.co/pxhVzY8/galanga.jpg"
+  },
+  {
+    "id": "c024",
+    "name": "Gombo",
+    "famille": 17,
+    "code": {
+      "kg" : 78360
+    },
+    "pictures": "https://i.ibb.co/kgZ4hJc/227-Page-40-Image-0001.jpg"
+  },
+  {
+    "id": "c025",
+    "name": "Goyave",
+    "famille": 17,
+    "code" : {
+      "kg" : 78450
+    },
+    "pictures": "https://i.ibb.co/ZMKB3Fb/product-1578228b.jpg"
+  },
+  {
+    "id": "c026",
+    "name": "Groseille confiture",
+    "famille": 17,
+    "code": {
+      "piece" : 54311
+    },
+    "pictures": ""
+  },
+  {
+    "id": "c027",
+    "name": "Igname",
+    "famille": 17,
+    "code": {
+      "kg" : 78300
+    },
+    "pictures": "https://i.ibb.co/Qj7s0yS/igname-1.jpg"
+  },
+  {
+    "id": "c028",
+    "name": "Jujube",
+    "famille": 17,
+    "code": {
+     "kg" : 78320
+    },
+    "pictures": "https://i.ibb.co/cQHw7wb/Jujube-92314313-s2.jpg"
+  }
+]
