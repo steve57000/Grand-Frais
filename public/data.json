@@ -104,7 +104,7 @@
   },
   {
     "id" : "c012",
-    "name" : "Citron vert",
+    "name" : "Citron vert filet",
     "famille" : 17,
     "code" : {
       "filet": 77711
@@ -631,24 +631,6 @@
     "pictures": "https://i.ibb.co/gPBWhqs/piment-antillais.jpg"
   },
   {
-    "id": "c069",
-    "name": "Physalis",
-    "famille": 17,
-    "code": {
-      "kg" : 78900
-    },
-    "pictures": "https://i.ibb.co/H71T7Wj/Physalis.jpg"
-  },
-  {
-    "id": "c070",
-    "name": "Piment antillais",
-    "famille": 17,
-    "code": {
-      "kg" : 78640
-    },
-    "pictures": "https://i.ibb.co/gPBWhqs/piment-antillais.jpg"
-  },
-  {
     "id": "c071",
     "name": "Piment oiseau",
     "famille": 17,
@@ -746,6 +728,289 @@
       "piece" : 53301
     },
     "pictures": "https://i.ibb.co/5rsq0QW/banane-5-doigts.jpg"
+  },
+  {
+    "id": "c082",
+    "name": "Banane plantain verte non mure",
+    "famille": 17,
+    "code": {
+      "kg" : 78080,
+      "carton" : 78086
+    },
+    "pictures": "https://i.ibb.co/Ybt30SP/produit-banane-plantain.jpg"
+  },
+  {
+    "id": "c083",
+    "name": "Brede mafane",
+    "famille": 17,
+    "code": {
+      "kg" : 7870
+    },
+    "pictures": "https://i.ibb.co/3vnpQBd/Brede-Mafane.jpg"
+  },
+  {
+    "id": "c084",
+    "name": "Citron vert",
+    "famille": 17,
+    "code": {
+      "kg" : 57060
+    },
+    "pictures": "https://i.ibb.co/1Rhx9kX/citron-Vert.jpg"
+  },
+  {
+    "id": "c085",
+    "name": "Concombre amer",
+    "famille": 17,
+    "code": {
+      "kg" : 79330
+    },
+    "pictures": "https://i.ibb.co/Ms6Hbqx/concombre-amer.jpg"
+  },
+  {
+    "id": "c086",
+    "name": "Datte fraiche",
+    "famille": 17,
+    "code": {
+      "kg" : 78990
+    },
+    "pictures": "https://i.ibb.co/HFRqWLG/DATTE-FRAICHE.jpg"
+  },
+  {
+    "id": "c087",
+    "name": "Gingembre",
+    "famille": 17,
+    "code": {
+      "kg" : 78330
+    },
+    "pictures": "https://i.ibb.co/nw86zDg/le-gingembre.jpg"
+  },
+  {
+    "id": "c088",
+    "name": "Jacato",
+    "famille": 17,
+    "code": {
+      "kg" : 78310
+    },
+    "pictures": "https://i.ibb.co/6YBWbcc/jacato.jpg"
+  },
+  {
+    "id": "c089",
+    "name": "Kiwi",
+    "famille": 17,
+    "code": {
+      "piece" : 62101,
+      "lot" : 62109
+    },
+    "pictures": "https://i.ibb.co/rynKykc/kiwi.jpg"
+  },
+  {
+    "id": "c090",
+    "name": "Pomme canelle",
+    "famille": 17,
+    "code": {
+      "kg" : 79310
+    },
+    "pictures": "https://i.ibb.co/0n2YBy0/POMME-CANNELLE.jpg"
+  },
+  {
+    "id": "c091",
+    "name": "Pomme gala",
+    "famille": 17,
+    "code": {
+      "kg" : 75400
+    },
+    "pictures": "https://i.ibb.co/BfyjsCF/pomme-gala.jpg"
+  },
+  {
+    "id": "c092",
+    "name": "Pomme golden",
+    "famille": 17,
+    "code": {
+      "kg" : 74450
+    },
+    "pictures": "https://i.ibb.co/Ks0MDPn/pomme-golden.jpg"
+  },
+  {
+    "id": "c093",
+    "name": "Pomme pink lady",
+    "famille": 17,
+    "code": {
+      "kg" : 75170
+    },
+    "pictures": "https://i.ibb.co/ZV64qrV/pomme-pink-lady.png"
+  },
+  {
+    "id": "c094",
+    "name": "Mirabelle",
+    "famille": 17,
+    "code": {
+      "kg" : 76300
+    },
+    "pictures": "https://i.ibb.co/k6qpKhv/mirabelle.jpg"
+  },
+  {
+    "id": "c095",
+    "name": "Quetsche",
+    "famille": 17,
+    "code": {
+      "kg" : 76350
+    },
+    "pictures": "https://i.ibb.co/zmnBgNv/quetsche.jpg"
+  },
+  {
+    "id": "c096",
+    "name": "Reine claude",
+    "famille": 17,
+    "code": {
+      "kg" : 76490
+    },
+    "pictures": "https://i.ibb.co/4VnSqQZ/La-reine-claude.jpg"
+  },
+  {
+    "id": "c097",
+    "name": "Prune rouge",
+    "famille": 17,
+    "code": {
+      "kg" : 76400
+    },
+    "pictures": "https://i.ibb.co/R7c8HY3/prune-rouge.jpg"
+  },
+  {
+    "id": "c098",
+    "name": "Raisin blanc sans pepin",
+    "famille": 17,
+    "code": {
+      "kg" : 76920
+    },
+    "pictures": "https://i.ibb.co/vXzGwsL/raisin-blanc-sans-p-pin.png"
+  },
+  {
+    "id": "c099",
+    "name": "Raisin danlas",
+    "famille": 17,
+    "code": {
+      "kg" : 77550
+    },
+    "pictures": "https://i.ibb.co/hsm9LKq/raisin-danlas.jpg"
+  },
+  {
+    "id": "c0100",
+    "name": "Raisin muscat",
+    "famille": 17,
+    "code": {
+      "kg" : 77570
+    },
+    "pictures": "https://i.ibb.co/7yDmcK9/raisin-muscat.jpg"
+  },
+  {
+    "id": "c0101",
+    "name": "Raisin rose sans pepin",
+    "famille": 17,
+    "code": {
+      "kg" : 77410
+    },
+    "pictures": "https://i.ibb.co/3rt4tv9/raisin-rose-red-globe-barquette-500gr.jpg"
+  },
+  {
+    "id": "c0102",
+    "name": "Raisin vittoria",
+    "famille": 17,
+    "code": {
+      "kg" : 77570
+    },
+    "pictures": "https://i.ibb.co/TgkQF5T/raisin-vittoria.webp"
+  },
+  {
+    "id": "c0103",
+    "name": "Ramboutan",
+    "famille": 17,
+    "code": {
+      "kg" : 78760
+    },
+    "pictures": "https://i.ibb.co/b639TQ0/Ramboutan.jpg"
+  },
+  {
+    "id": "c0104",
+    "name": "Safou",
+    "famille": 17,
+    "code": {
+      "kg" : 78780
+    },
+    "pictures": "https://i.ibb.co/3rctQkc/Safou.jpg"
+  },
+  {
+    "id": "c0105",
+    "name": "Ail blanc",
+    "famille": 17,
+    "code": {
+      "kg" : 81680
+    },
+    "pictures": "https://i.ibb.co/TRhjnmQ/Ail-Blanc.jpg"
+  },
+  {
+    "id": "c0106",
+    "name": "Ail frais blanc",
+    "famille": 17,
+    "code": {
+      "kg" : 81620
+    },
+    "pictures": "https://i.ibb.co/PcC1jKs/Ail-frais-blanc.jpg"
+  },
+  {
+    "id": "c0107",
+    "name": "Ail violet",
+    "famille": 17,
+    "code": {
+      "kg" : 81430
+    },
+    "pictures": "https://i.ibb.co/SypyL96/ail-violet.jpg"
+  },
+  {
+    "id": "c0108",
+    "name": "Aneth bouquet",
+    "famille": 17,
+    "code": {
+      "piece" : 94511
+    },
+    "pictures": "https://i.ibb.co/X5grDp8/aneth-bouquet.jpg"
+  },
+  {
+    "id": "c0109",
+    "name": "Artichaut cardinal",
+    "famille": 17,
+    "code": {
+      "piece" : 80191,
+      "lot" : 80199
+    },
+    "pictures": "https://i.ibb.co/8xqnCVv/artichaut-cardinal.jpg"
+  },
+  {
+    "id": "c0110",
+    "name": "Artichaut violet petit",
+    "famille": 17,
+    "code": {
+      "piece" : 80151,
+      "lot" : 80159
+    },
+    "pictures": "https://i.ibb.co/JH2dn5Z/artichaut-violet-petit.jpg"
+  },
+  {
+    "id": "c0111",
+    "name": "Aubergine africaine",
+    "famille": 17,
+    "code": {
+      "kg" : 81490
+    },
+    "pictures": "https://i.ibb.co/89nhvqZ/aubergine-africaine.jpg"
+  },
+  {
+    "id": "c0112",
+    "name": "Aubergine chinoise",
+    "famille": 17,
+    "code": {
+      "kg" : 81580
+    },
+    "pictures": "https://i.ibb.co/C5FSCqD/aubergine-chinoise.jpg"
   }
 
 ]
