@@ -35,7 +35,7 @@ function Home() {
         {isLoading ? (
           <Loader />
         ) : (
-          <div className="container-card">
+          <section className="container-card">
             {data.map((card, index) => (
               <Card
                 title={card.name}
@@ -46,7 +46,7 @@ function Home() {
                 familly={card.famille}
               ></Card>
             ))}
-          </div>
+          </section>
         )}
       </div>
     </div>
