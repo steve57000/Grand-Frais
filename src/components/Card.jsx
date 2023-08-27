@@ -18,7 +18,7 @@ export default function Card({ title, cover, code, familly }) {
     const getFilet = code.filet ? (<p>Code filet : {code.filet}</p>) : null
     const getColis = code.colis ? (<p>Code filet : {code.colis} </p>) : null
     const getCarton = code.carton ? (<p>Code carton : {code.carton} </p>) : null
-    const getBarquette = code.barquette ? (<p>Code filet : {code.barquette}</p>) : null
+    const getBarquette = code.barquette ? (<p>Code barquette : {code.barquette}</p>) : null
     const getLot = code.lot ? (<p>Code lot : {code.lot}</p>) : null
 
 
