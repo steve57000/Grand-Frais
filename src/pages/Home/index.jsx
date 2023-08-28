@@ -35,11 +35,22 @@ console.log(searchProduct)
   // affichage (render)
   return (
     <div className="Home">
-      <div className="SectionCard">
-        <form className="Search">
-          <label htmlFor="search-product"></label>
-          <input onChange={useSearchProduct} type="search" name="search-product" id="search-product" placeholder="Enter search..."/>
-        </form>
+        <h1>Hôtesse de caisse, nos produits</h1>
+        <div className="Citation">
+            <q>Vos clients les plus mécontents sont votre plus grande source d'apprentissage.</q>
+            <q>Être sur un pied d'égalité en termes de prix et de qualité ne fait que vous amener dans le jeu. C'est le service qui vous fera remporter la partie.</q>
+        </div>
+        <div className="SectionCard">
+            <form className="Search">
+                <label htmlFor="search-product">Recherchez un Nom de produit : </label>
+                <input
+                    onChange={useSearchProduct}
+                    type="search"
+                    name="search-product"
+                    id="search-product"
+                    placeholder="Enter search..."
+                />
+            </form>
         <p>Totale référence : {data.length} </p>
         {isLoading ? (
           <Loader />
