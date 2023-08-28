@@ -6,9 +6,9 @@ import '../../styles/App.css'
 function Home() {
   // State (état, données)
   const [data, setData] = useState([]);
+  const [searchProduct, setSearchProduct] = useState('');
   const [isLoading, setLoading] = useState(true);
   const [error, setError] = useState(false);
-
   // Comportement
   useEffect(() => {
     DataService.getAll()
@@ -23,24 +23,37 @@ function Home() {
       });
   }, []);
 
+  const useSearchProduct = (e) => {
+      let value = e.target.value;
+      value.length > 2 && setSearchProduct(value)
+      value.length < 3 && setSearchProduct("")
+  }
   if (error) {
     return <h2 className="text-center">Oups il y a eu un problème</h2>;
   }
-
+console.log(searchProduct)
   // affichage (render)
   return (
     <div className="Home">
       <div className="SectionCard">
+        <form className="Search">
+          <label htmlFor="search-product"></label>
+          <input onChange={useSearchProduct} type="search" name="search-product" id="search-product" placeholder="Enter search..."/>
+        </form>
         <p>Totale référence : {data.length} </p>
         {isLoading ? (
           <Loader />
         ) : (
           <section className="container-card">
-            {data.map((card, index) => (
+            {
+            data.filter((dataName) => {
+               return dataName.name.toLowerCase().includes(searchProduct.toLowerCase())
+            }
+            ).map((card, index) => (
               <Card
                 title={card.name}
                 cover={card.pictures}
-                key={`${card.title}-${index}`}
+                key={`${card.name}-${index}`}
                 id={card.id}
                 code={card.code}
                 familly={card.famille}

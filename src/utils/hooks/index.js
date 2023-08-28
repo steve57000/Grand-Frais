@@ -16,7 +16,7 @@ const getAll = async () => {
 };
 
 
-const getById = async (id) => {
+const getBySearch = async (string) => {
     let response
     let allData
     let data
@@ -24,7 +24,7 @@ const getById = async (id) => {
     try {
         response = await fetch(urlDataAll)
         allData = await response.json()
-        data = allData.filter(housing => housing.id === id)[0]
+        data = allData.filter(searchProduct => searchProduct.name.contain(string))
 
     } catch (err) {
         throw new Error('Erreur lors de la requete API :' + err)
@@ -35,6 +35,6 @@ const getById = async (id) => {
 
 const DataService = {
     getAll,
-    getById
+    getBySearch
 };
 export default DataService;

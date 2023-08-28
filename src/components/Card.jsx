@@ -8,7 +8,6 @@ export default function Card({ title, cover, code, familly }) {
   // comportements
     if(code.kg) {
         const numberSansSachet = JSON.stringify(code.kg)
-        console.log(numberSansSachet)
         const addSansSachet = numberSansSachet.slice(0, 4)
         sansSachet = addSansSachet.concat('4')
     }
