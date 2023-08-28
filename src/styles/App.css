@@ -4,32 +4,39 @@
 }
 .Citation {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1rem;
+
 }
 q {
-  max-width: 48%;
+  width: 320px;
   font-size: 25px;
   background-color: rgba(152, 251, 152, 0.77);
   border-radius: 25px;
-  padding: .4rem
+  padding: 1rem;
+  margin: 1rem;
 }
 .Search {
+  width: 90vw;
   height: 8vh;
-  padding: .4rem .8rem;
+  padding: .8rem;
   border-radius: 25px;
   box-shadow: 1px 4px 12px 0 rgba(0, 0, 0, 0.40);
   background-color: rgba(176, 176, 176, 0.38);
 }
 #search-product {
-  width: 90%;
+  width: 98%;
   height: 5vh;
   padding: 0.5rem;
   border-radius: 10px;
   border: none;
 }
 .SectionCard {
-  text-align: center;
+  display: flex;
   margin-top: 50px;
+  flex-direction: column;
+  align-items: center;
 }
 .SectionCard > p {
   text-align: left;
