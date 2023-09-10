@@ -9,8 +9,7 @@ function RouterApp() {
       <Router>
         <Header />
         <Routes>
-          {/*<Route exact path="http://localhost:3000/home" element={<Home />} />*/}
-          <Route exact path="https://steve57000.github.io/Grand-Frais/" element={<Home />} />
+          
           <Route exact path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route exact path="*" element={<Home />} />
