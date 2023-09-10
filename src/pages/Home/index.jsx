@@ -51,13 +51,15 @@ console.log(searchProduct)
                     placeholder="Enter search..."
                 />
             </form>
-        <p>Totale référence : {data.length} </p>
+            <p>Totale référence : {data.length} </p>
         {isLoading ? (
           <Loader />
         ) : (
           <section className="container-card">
-            {
+
+              {
             data.filter((dataName) => {
+
                return dataName.name.toLowerCase().includes(searchProduct.toLowerCase())
             }
             ).map((card, index) => (
