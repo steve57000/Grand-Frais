@@ -88,7 +88,8 @@
     "name" : "Carambole",
     "famille" : 17,
     "code" : {
-      "piece" : 77881
+      "piece" : 77881,
+      "lot" : 77889
     },
     "pictures" : "https://i.ibb.co/NKhX8CZ/carambole.jpg"
   },
@@ -143,7 +144,8 @@
     "name": "Feuille de banane",
     "famille": 17,
     "code": {
-      "piece" : 78231
+      "piece" : 78231,
+      "lot" : 78239
     },
     "pictures": "https://i.ibb.co/pP4nzHJ/feuille-Banane.webp"
   },
@@ -289,7 +291,8 @@
     "name": "Liseron d'eau",
     "famille": 17,
     "code": {
-     "piece" : 79911
+     "piece" : 79911,
+      "lot" : 79919
     },
     "pictures": "https://i.ibb.co/5YwmG4M/liseron-d-039-eau.png"
   },
@@ -470,7 +473,8 @@
     "name": "Noix de coco",
     "famille": 17,
     "code": {
-     "piece" : 78631
+     "piece" : 78631,
+      "lot" : 78639
     },
     "pictures": "https://i.ibb.co/GTgdY0y/NOIX-DE-COCO.jpg"
   },
@@ -479,7 +483,8 @@
     "name": "Noix de coco fraiche",
     "famille": 17,
     "code": {
-     "piece" : 78831
+     "piece" : 78831,
+      "lot" : 78839
     },
     "pictures": "https://i.ibb.co/fS5BGjB/Noix-de-Coco-fra-che.jpg"
   },
@@ -725,7 +730,8 @@
     "name": "Banane 5 doigts",
     "famille": 17,
     "code": {
-      "piece" : 53301
+      "piece" : 53301,
+      "lot" : 53309
     },
     "pictures": "https://i.ibb.co/5rsq0QW/banane-5-doigts.jpg"
   },
@@ -970,7 +976,8 @@
     "name": "Aneth bouquet",
     "famille": 17,
     "code": {
-      "piece" : 94511
+      "piece" : 94511,
+      "lot" : 94519
     },
     "pictures": "https://i.ibb.co/X5grDp8/aneth-bouquet.jpg"
   },
@@ -1011,6 +1018,45 @@
       "kg" : 81580
     },
     "pictures": "https://i.ibb.co/C5FSCqD/aubergine-chinoise.jpg"
+  },
+  {
+    "id": "c0113",
+    "name": "Aubergine",
+    "famille": 17,
+    "code": {
+      "kg" : 81540,
+      "filet" : 80781
+    },
+    "pictures": "https://i.ibb.co/3sKVnx2/aubergine.jpg"
+  },
+  {
+    "id": "c0114",
+    "name": "Aubergine graffiti",
+    "famille": 17,
+    "code": {
+      "kg" : 81590
+    },
+    "pictures": "https://i.ibb.co/cFyFC6P/aubergine-Graffiti.jpg"
+  },
+  {
+    "id": "c0115",
+    "name": "Basilic italie",
+    "famille": 17,
+    "code": {
+      "piece" : 96071,
+      "lot" : 96079
+    },
+    "pictures": "https://i.ibb.co/x6Tpbq5/Basilic-italie.jpg"
+  },
+  {
+    "id": "c0116",
+    "name": "Batavia verte",
+    "famille": 17,
+    "code": {
+      "piece" : 92001,
+      "lot" : 92009
+    },
+    "pictures": "https://i.ibb.co/x5cwwYp/batavia-verte.jpg"
   }
 
 ]
