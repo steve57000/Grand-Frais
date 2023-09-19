@@ -1,5 +1,4 @@
-import { ReactComponent as Logo } from '../../logoWhite.svg';
-
+import React from 'react';
 function Footer() {
   return (
     <div
@@ -11,8 +10,6 @@ function Footer() {
       }}
     >
       <div className="FooterContent">
-        {/* Logo is an actual React component */}
-        <Logo className="FooterLogo" />
         <p>© 2023 Grand frais app Steve Bell. All rights reserved</p>
       </div>
     </div>
